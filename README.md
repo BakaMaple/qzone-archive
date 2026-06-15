@@ -185,7 +185,7 @@ Reposted original text, repost comments, comment section, and timestamps
     "name": "Kaede",
     "content": "[转评] 我现在所在的陆行鸟大区红玉海服务器已经解除角色创建限制，列表有没有人来一起玩[em]e400932[/em] [转自] 可恶，为什么列表没人来玩ff14 来打副本，钓鱼，弹琴(听别人也行），逛rp店（role play角色扮演，中/重rp语擦，轻rp类似女仆咖啡厅） 当暖暖玩也好玩啊（） 还能结婚.jpg 总之来玩，哦摩西罗伊 [图片]",
     "comments": [
-      "AsahiPrPr：明天傻屌",
+      "AsahiPrPr：明天",
       "Kaede → AsahiPrPr：差不多"
     ]
   }
