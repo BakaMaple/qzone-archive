@@ -1,4 +1,4 @@
-# QZone Archive
+# QZone-Archive
 
 在 QQ 空间彻底成为时代眼泪之前，把属于自己的互联网记忆保存下来。
 
