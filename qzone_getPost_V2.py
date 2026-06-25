@@ -193,8 +193,25 @@ def get_msgdetail(page, tid, uin, g_tk):
                 start + 1:
                 end
             ]
+    print("========== RAW ==========")
+    print(repr(result[:300]))
+    print("=========================")
+    print("=" * 60)
+    print("RAW LEN:", len(result))
+    print("RAW HEAD:", repr(result[:200]))
+    print("=" * 60)
+    try:
+        return json.loads(result)
 
-    return json.loads(result)
+    except json.JSONDecodeError:
+
+        print("\n========== 详情接口解析失败 ==========")
+        print(f"tid = {tid}")
+        print(f"RAW LEN = {len(result)}")
+        print(repr(result[:500]))
+        print("=====================================\n")
+
+        return None
 
 
 # ============================================
